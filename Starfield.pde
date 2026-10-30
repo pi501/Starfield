@@ -63,6 +63,7 @@ class Particle
 
 class OddballParticle extends Particle
 {
+  OddballParticle()
   {
     MyX = 300.0;
     MyY = 300.0;
